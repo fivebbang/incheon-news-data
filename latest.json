@@ -1,4 +1,4 @@
-﻿{"updatedAt":"2026-11-09T09:15:16+09:00","data":{
+﻿{"updatedAt":"2026-11-10T09:09:47+09:00","data":{
   "2026-11-07": {
     "hasArticles": true,
     "articles": [
@@ -44,5 +44,9 @@
         "keyword": "인천광역시체육회"
       }
     ]
+  },
+  "2026-11-10": {
+    "hasArticles": false,
+    "articles": []
   }
 }}
